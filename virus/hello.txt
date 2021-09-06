@@ -1,4 +1,2 @@
 Hello World2
 This is test file to infect!!
-
-This is a second file!

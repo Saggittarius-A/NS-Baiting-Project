@@ -1,1 +1,4 @@
 node_modules/
+virus/__pycache__/
+virus/build
+virus/virus.spec
