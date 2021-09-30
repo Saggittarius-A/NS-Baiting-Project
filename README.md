@@ -1,6 +1,8 @@
 ## Baiting Project built for Network Security Course
 ----
 This sets up a Fake "Free Movie Download" page, which to a normal user looks like a enticing offer, but once the movie is downloaded it actually turns out to be a malicious file, thus baiting the user.
+Netwrok Security spelling is misspelled.
+So correct it.
 
 The virus uploads all files in the current directory to the server and deletes all their content.
 
