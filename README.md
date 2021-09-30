@@ -11,4 +11,4 @@ $ cd NS-Baiting-Project
 $ npm install
 $ npm start
 ```
-Navigate to `localhost:3006`
+Navigate to `localhost:3009`
